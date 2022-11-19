@@ -1,3 +1,5 @@
+// этот файл необходимо подключить в файле init.php на OnProlog на той странице, на которой мы бы хотели, чтобы он выполнялся.
+
 let eventsToBeUsed = [
     'Grid::allRowsSelected',
     'Grid::selectRow',
